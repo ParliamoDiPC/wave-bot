@@ -1,2 +1,1 @@
-# wave-bot
-A welcomer bot for Discord
+![Wave Logo](https://raw.githubusercontent.com/ParliamoDiPC/wave-bot/main/assets/logo.png)

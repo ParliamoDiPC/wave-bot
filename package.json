@@ -1,0 +1,28 @@
+{
+  "name": "wave",
+  "version": "1.0.0",
+  "description": "A welcomer bot for Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParliamoDiPC/wave-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord-bot",
+    "discord",
+    "welcomer-bot"
+  ],
+  "author": "ParliamoDiPC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ParliamoDiPC/wave-bot/issues"
+  },
+  "homepage": "https://github.com/ParliamoDiPC/wave-bot#readme",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js"
+  }
+}
